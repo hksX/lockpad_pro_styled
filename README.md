@@ -12,7 +12,9 @@ Press: Ctrl + (that's the backtick key, usually below Esc)  or  From the top men
 2. cd lockpad_pro_styled
 3. npm install             [#This command reads your package.json and installs all required dependencies into the node_modules folder.]
 4. npm run dev
-5. Open the URL printed by Vite (usually http://localhost:5173)
+5. Open the URL printed by Vite
+   
+<img width="1022" height="574" alt="0xx" src="https://github.com/user-attachments/assets/b6cc0e0e-fa1b-4a7e-a8e8-ca59dc5a6fb2" />
 
 
 ## LOCKPAD_PRO_STYLED/ ##
