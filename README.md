@@ -1,7 +1,8 @@
 LockPad Pro — Styled Edition (Offline assets included)
 
 After unzip:
-1. cd lockpad_pro_styled
+open terminal in  vs code
+1. npm install @vitejs/plugin-react --save-dev
 2. npm install
 3. npm run dev
 4. Open the URL printed by Vite (usually http://localhost:5173)
