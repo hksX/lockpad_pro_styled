@@ -10,7 +10,7 @@ Press: Ctrl + (that's the backtick key, usually below Esc)  or  From the top men
 
 1. npm install @vitejs/plugin-react --save-dev
 2. cd lockpad_pro_styled
-3. npm install             [#This command reads your package.json and installs all required dependencies into the node_modules folder.]
+3. ## npm install    ##         [#This command reads your package.json and installs all required dependencies into the node_modules folder.]
 4. npm run dev
 5. Open the URL printed by Vite
    
