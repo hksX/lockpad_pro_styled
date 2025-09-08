@@ -1,7 +1,7 @@
 ## LockPad Pro — Styled Edition (Offline assets included) ##
 
 ## After unzip: ##
-open terminal in  vs code 
+
 Launch Visual Studio Code and open your project folder (LOCKPAD_PRO_STYLED).
 
 Open the Terminal
@@ -17,27 +17,26 @@ Press: Ctrl + (that's the backtick key, usually below Esc)  or  From the top men
 
 ## LOCKPAD_PRO_STYLED/ ##
 
-LOCKPAD_PRO_STYLED/
-├── node_modules/    # (Generated after running `npm install`)
+├── node_modules/ # (Generated after running npm install)
 ├── public/
-│   └── assets/
-│       ├── bg.jpg
-│       └── lock.png
+│ └── assets/
+│ ├── bg.jpg
+│ └── lock.png
 ├── src/
-│   ├── components/
-│   │   ├── ExportImport.jsx
-│   │   ├── NoteEditor.jsx
-│   │   ├── NoteList.jsx
-│   │   ├── Onboarding.jsx
-│   │   └── UnlockCard.jsx
-│   ├── hooks/
-│   │   └── useAutoLock.js
-│   ├── utils/
-│   │   ├── crypto.js
-│   │   └── db.js
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
+│ ├── components/
+│ │ ├── ExportImport.jsx
+│ │ ├── NoteEditor.jsx
+│ │ ├── NoteList.jsx
+│ │ ├── Onboarding.jsx
+│ │ └── UnlockCard.jsx
+│ ├── hooks/
+│ │ └── useAutoLock.js
+│ ├── utils/
+│ │ ├── crypto.js
+│ │ └── db.js
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
 ├── index.html
 ├── package-lock.json
 ├── package.json
